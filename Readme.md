@@ -33,7 +33,5 @@
 [3주차 과제 nbviewerlink]:https://nbviewer.jupyter.org/github/kimseongho3077/-1/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb "Go 3주차 과제 nbviewer"
 
 
-[학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/kimseongho3077/-1/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb, "학습률 최적화, 군집 분석 구현, Cost Function 구현 link")
-위의 파일이 열리지 않는다면 이 방식으로 업로드 해 주세요-->[3주차 과제 nbviewer](https://nbviewer.jupyter.org/github/kimseongho3077/-1/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb, "3주차 과제 nbviewer link")
 
 ## 4주차 과제(2020.06.17)
