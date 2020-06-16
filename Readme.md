@@ -8,7 +8,7 @@
 위의 파일이 열리지 않는다면 이 방식으로 업로드 해 주세요-->
 [1주차 과제 nbviewer][1주차 과제 nbviewerlink]
 
-1주차 과제 nbviewerlink]:https://nbviewer.jupyter.org/github/kimseongho3077/-1/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb "Go 1주차 과제 nbviewer"
+[1주차 과제 nbviewerlink]:https://nbviewer.jupyter.org/github/kimseongho3077/-1/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb "Go 1주차 과제 nbviewer"
 
 [1주차 과제 nbviewer](https://nbviewer.jupyter.org/github/kimseongho3077/-1/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb, "1주차 과제 nbviewer link")
 
