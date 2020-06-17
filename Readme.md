@@ -35,3 +35,13 @@
 
 
 ## 4주차 과제(2020.06.17)
+[딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산][딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산link]
+
+[딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산link]:https://github.com/kimseongho3077/-1/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb "Go 딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산"
+
+위의 파일이 열리지 않는다면 이 방식으로 업로드 해 주세요-->
+[4주차 과제 nbviewer][4주차 과제 nbviewerlink]
+
+[4주차 과제 nbviewerlink]:https://nbviewer.jupyter.org/github/kimseongho3077/-1/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb "Go 4주차 과제 nbviewer"
+
+
